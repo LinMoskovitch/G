@@ -1,6 +1,6 @@
 # GPUP (Generic Platform for Utilizing Processes)
 ## Description
-This project was made as part of a Software Development course in Java, taken in the 1st semester of 2022. In this project, I've created 2 desktop applications, for utilizing processes between managers and their workers.
+This project was made as a part of a Software Development course in Java, taken in the 1st semester of 2022. In this project, I've created 2 desktop applications, for utilizing processes between managers and their workers.
 
 ## About GPUP
 Generally, when an organization has a lot of tasks, there're dependencies between them, and utilizing it can be difficult. Furthermore, sometimes  
